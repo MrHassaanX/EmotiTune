@@ -368,9 +368,46 @@ Have an idea for a better playlist mapping, a cleaner dashboard, or a new way to
 
 If you find a bug, [open an issue](https://github.com/MrZayidKhan/EmotiTune/issues).
 
-## 💜 Project Credit
+## 💜 Meet the Team
 
-Created and maintained in the GitHub repository by **[@MrZayidKhan](https://github.com/MrZayidKhan)**.
+<div align="center">
+
+**Four minds. One vibe. Endless beats.** 🎧
+
+Built with passion, curiosity, and way too many playlists by:
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/MrZayidKhan">
+        <img src="https://github.com/MrZayidKhan.png?size=120" width="100" alt="MrZayidKhan avatar" /><br />
+        <b>@MrZayidKhan</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/MdUmairZ">
+        <img src="https://github.com/MdUmairZ.png?size=120" width="100" alt="MdUmairZ avatar" /><br />
+        <b>@MdUmairZ</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/legend-codes">
+        <img src="https://github.com/legend-codes.png?size=120" width="100" alt="legend-codes avatar" /><br />
+        <b>@legend-codes</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/MrHassaanX">
+        <img src="https://github.com/MrHassaanX.png?size=120" width="100" alt="MrHassaanX avatar" /><br />
+        <b>@MrHassaanX</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+**Made together. Powered by AI. Driven by music.** 💜
+
+</div>
 
 > **Music is personal. EmotiTune makes the playlist feel a little more personal, too.**
 
