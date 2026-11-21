@@ -349,14 +349,14 @@ Errors return a JSON object containing `status: "error"` and a `message`, with a
 
 A few upgrades that could take EmotiTune from a proof of concept to a more complete project:
 
-- [ ] Move Spotify credentials and service URLs into `.env` configuration.
-- [ ] Add a complete Google Apps Script + sample Sheet template.
-- [ ] Publish ESP32 firmware and a wiring/gesture guide.
-- [ ] Add user-selectable playlist mappings for more expressions.
-- [ ] Improve face-presence checks and smooth predictions over time.
-- [ ] Add a webcam/privacy toggle and configurable logging retention.
-- [ ] Include automated tests, dependency pinning, and easy installers.
-- [ ] Publish real screenshots and a demo video.
+→ Move Spotify credentials and service URLs into `.env` configuration.  
+→ Add a complete Google Apps Script + sample Sheet template.  
+→ Publish ESP32 firmware and a wiring/gesture guide.  
+→ Add user-selectable playlist mappings for more expressions.  
+→ Improve face-presence checks and smooth predictions over time.  
+→ Add a webcam/privacy toggle and configurable logging retention.  
+→ Include automated tests, dependency pinning, and easy installers.  
+→ Publish real screenshots and a demo video.  
 
 ## 🤝 Contributing
 
